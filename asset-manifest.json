@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/pinklightsaber/pudu/static/css/main.40a0e964.chunk.css",
-    "main.js": "/pinklightsaber/pudu/static/js/main.e7a89545.chunk.js",
-    "main.js.map": "/pinklightsaber/pudu/static/js/main.e7a89545.chunk.js.map",
-    "runtime-main.js": "/pinklightsaber/pudu/static/js/runtime-main.448c6668.js",
-    "runtime-main.js.map": "/pinklightsaber/pudu/static/js/runtime-main.448c6668.js.map",
-    "static/js/2.63583220.chunk.js": "/pinklightsaber/pudu/static/js/2.63583220.chunk.js",
-    "static/js/2.63583220.chunk.js.map": "/pinklightsaber/pudu/static/js/2.63583220.chunk.js.map",
-    "index.html": "/pinklightsaber/pudu/index.html",
-    "precache-manifest.6ee562dc784682224900616d1c60dc34.js": "/pinklightsaber/pudu/precache-manifest.6ee562dc784682224900616d1c60dc34.js",
-    "service-worker.js": "/pinklightsaber/pudu/service-worker.js",
-    "static/css/main.40a0e964.chunk.css.map": "/pinklightsaber/pudu/static/css/main.40a0e964.chunk.css.map",
-    "static/js/2.63583220.chunk.js.LICENSE.txt": "/pinklightsaber/pudu/static/js/2.63583220.chunk.js.LICENSE.txt",
-    "static/media/projects.scss": "/pinklightsaber/pudu/static/media/a1c27395998927.47635092.png",
-    "static/media/App.scss": "/pinklightsaber/pudu/static/media/mine2.b10a1a8c.jpg",
-    "static/media/proyecto1.JPG": "/pinklightsaber/pudu/static/media/proyecto1.0fdd0c9a.JPG",
-    "static/media/proyecto2.JPG": "/pinklightsaber/pudu/static/media/proyecto2.981851b8.JPG",
-    "static/media/proyecto3.JPG": "/pinklightsaber/pudu/static/media/proyecto3.fb3c9dbd.JPG"
+    "main.css": "/pudu/static/css/main.3ba90745.chunk.css",
+    "main.js": "/pudu/static/js/main.e7a89545.chunk.js",
+    "main.js.map": "/pudu/static/js/main.e7a89545.chunk.js.map",
+    "runtime-main.js": "/pudu/static/js/runtime-main.e8ddd3d8.js",
+    "runtime-main.js.map": "/pudu/static/js/runtime-main.e8ddd3d8.js.map",
+    "static/js/2.acc17af6.chunk.js": "/pudu/static/js/2.acc17af6.chunk.js",
+    "static/js/2.acc17af6.chunk.js.map": "/pudu/static/js/2.acc17af6.chunk.js.map",
+    "index.html": "/pudu/index.html",
+    "precache-manifest.4f9723ce4458bf8ec51805be1a047074.js": "/pudu/precache-manifest.4f9723ce4458bf8ec51805be1a047074.js",
+    "service-worker.js": "/pudu/service-worker.js",
+    "static/css/main.3ba90745.chunk.css.map": "/pudu/static/css/main.3ba90745.chunk.css.map",
+    "static/js/2.acc17af6.chunk.js.LICENSE.txt": "/pudu/static/js/2.acc17af6.chunk.js.LICENSE.txt",
+    "static/media/projects.scss": "/pudu/static/media/a1c27395998927.47635092.png",
+    "static/media/App.scss": "/pudu/static/media/mine2.b10a1a8c.jpg",
+    "static/media/proyecto1.JPG": "/pudu/static/media/proyecto1.0fdd0c9a.JPG",
+    "static/media/proyecto2.JPG": "/pudu/static/media/proyecto2.981851b8.JPG",
+    "static/media/proyecto3.JPG": "/pudu/static/media/proyecto3.fb3c9dbd.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.448c6668.js",
-    "static/js/2.63583220.chunk.js",
-    "static/css/main.40a0e964.chunk.css",
+    "static/js/runtime-main.e8ddd3d8.js",
+    "static/js/2.acc17af6.chunk.js",
+    "static/css/main.3ba90745.chunk.css",
     "static/js/main.e7a89545.chunk.js"
   ]
 }
